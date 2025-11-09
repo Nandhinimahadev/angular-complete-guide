@@ -29,6 +29,36 @@
     },
     {
       "path": "./projects/first-app/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/built-in-directives/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/built-in-directives/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/core-examples/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/core-examples/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/forms-examples/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/forms-examples/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/http-examples/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/http-examples/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/routing-examples/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/routing-examples/tsconfig.spec.json"
     }
   ]
 }
