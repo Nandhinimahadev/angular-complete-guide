@@ -37,3 +37,8 @@ cd angular-workspace
    Location: projects/core-examples
    Description : This app demonstrates essential Angular concepts — Parent–Child Component Interaction,Custom Directive,Custom Pipe,Service
    Run cmd:   ng serve core-examples
+
+3.Form Examples
+   Location: projects/forms-examples
+   Description : This app demonstrates Angular forms — both Template-driven and Reactive approaches with validation and submission handling.
+   Run cmd:   ng serve forms-examples
