@@ -42,3 +42,8 @@ cd angular-workspace
    Location: projects/forms-examples
    Description : This app demonstrates Angular forms — both Template-driven and Reactive approaches with validation and submission handling.
    Run cmd:   ng serve forms-examples
+
+4.Http Examples
+   Location: projects/http-examples
+   Description : This app demonstrates Angular forms — both Template-driven and Reactive approaches with validation and submission handling.
+   Run cmd:   ng serve http-examples

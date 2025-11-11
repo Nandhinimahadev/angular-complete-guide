@@ -1,0 +1,8 @@
+<div class="card">
+      <h2>Home</h2>
+      <p *ngIf="!isLoggedIn">You are not logged in.</p>
+      <p *ngIf="isLoggedIn">Logged in successfully!</p>
+      <button (click)="toggleLogin()">
+        {{ isLoggedIn ? 'Logout' : 'Login' }}
+      </button>
+    </div>

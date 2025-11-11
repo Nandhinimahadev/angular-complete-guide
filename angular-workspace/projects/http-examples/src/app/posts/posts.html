@@ -1,0 +1,16 @@
+    <div class="card">
+      <h2>Posts (with HttpClient)</h2>
+      <button (click)="loadPosts()">Load Posts</button>
+      <div *ngIf="loading">Loading...</div>
+      <ul>
+        <li *ngFor="let post of posts">
+          <b>{{ post.title }}</b>
+          <p>{{ post.body }}</p>
+        </li>
+      </ul>
+
+      <h3>Add Post</h3>
+      <input [(ngModel)]="newPost.title" placeholder="Title" />
+      <textarea [(ngModel)]="newPost.body" placeholder="Body"></textarea>
+      <button (click)="addPost()">Add Post</button>
+    </div>
