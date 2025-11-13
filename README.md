@@ -45,5 +45,11 @@ cd angular-workspace
 
 4.Http Examples
    Location: projects/http-examples
-   Description : This app demonstrates Angular forms — both Template-driven and Reactive approaches with validation and submission handling.
+   Description : This app demonstrates how to perform HTTP operations in Angular using the HttpClient — including GET, POST requests, and handling responses and errors.
    Run cmd:   ng serve http-examples
+
+
+5.Routing Examples
+   Location: projects/routing-examples
+   Description: This app demonstrates Angular routing and navigation, showing how to configure routes, navigate between components, and apply active link styling.
+   Run cmd:   ng serve routing-examples
